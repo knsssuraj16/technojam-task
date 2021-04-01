@@ -9,6 +9,6 @@ Step5: enter username and password
 step6: congrats now you can use ubuntu Linux on your window.
 
 
-
+![alt text](https://github.com/knsssuraj16/technojam-task/blob/main/task1/ubantu.PNG)
 
 
