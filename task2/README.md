@@ -1,6 +1,7 @@
 Techno-jam Task02
-I have done all of the compulsury question on leetcode here is snap of all 5 gquestions<br/>
-Question Number 1
+I have done all of the compulsury question on leetcode here is snap of all 5  questions
+<br/>
+<p1>Question Number 1<p1/>
 ![alt text](https://github.com/knsssuraj16/technojam-task/blob/main/task2/que1.PNG)
 <br/>
 <br/>Question Number 2
